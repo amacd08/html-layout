@@ -1,0 +1,52 @@
+body {
+    margin: 0px;
+    height: 100vh;
+}
+
+.header {
+    width: 100%;
+}
+.row1 {
+    height: 125px;
+    width: 100%;
+}
+
+#header {
+    background: silver;
+}
+
+.logo {
+    float: left;
+    margin: 10px 20px;
+    height: 100px;
+    width: 100px;
+    background: mediumblue;
+}
+
+.mainSection {
+    width: 100vw;
+    height: calc(100% - 100px)
+}
+
+.content1 {
+    height: 275px;
+    background: white;
+    width: 100%;
+}
+
+#one {
+    background: slateblue;
+}
+
+#two {
+    background: teal;
+}
+
+#three {
+    background: yellowgreen;
+}
+
+#four {
+    background: yellow;
+}
+
